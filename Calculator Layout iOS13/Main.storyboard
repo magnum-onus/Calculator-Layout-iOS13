@@ -17,9 +17,8 @@
                         <rect key="frame" x="0.0" y="0.0" width="428" height="926"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="kok-oA-z2m" userLabel="7_row">
-                                <rect key="frame" x="-1" y="297" width="417" height="148.5"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="kok-oA-z2m" userLabel="7_row">
+                                <rect key="frame" x="0.0" y="308.66666666666669" width="428" height="154.33333333333331"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0Te-1e-CoT">
                                         <rect key="frame" x="0.0" y="0.0" width="103" height="148.5"/>
@@ -60,9 +59,8 @@
                                 </subviews>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                             </view>
-                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="4NE-rN-kBX" userLabel="4_row">
-                                <rect key="frame" x="-1" y="447" width="416.5" height="148.5"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="4NE-rN-kBX" userLabel="4_row">
+                                <rect key="frame" x="0.0" y="462.99999999999994" width="428" height="154.33333333333331"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="iu0-uk-boI">
                                         <rect key="frame" x="0.0" y="0.0" width="103" height="148.5"/>
@@ -103,9 +101,8 @@
                                 </subviews>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                             </view>
-                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Ewk-zs-Lm8" userLabel="1_row">
-                                <rect key="frame" x="-1" y="597" width="416.5" height="148.5"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Ewk-zs-Lm8" userLabel="1_row">
+                                <rect key="frame" x="0.0" y="617.33333333333337" width="428" height="154.33333333333337"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vDF-Od-2G3">
                                         <rect key="frame" x="0.0" y="0.0" width="103" height="148.5"/>
@@ -146,9 +143,8 @@
                                 </subviews>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                             </view>
-                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Tzr-qy-XTV" userLabel="0_row">
-                                <rect key="frame" x="0.0" y="747" width="415.5" height="148.5"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Tzr-qy-XTV" userLabel="0_row">
+                                <rect key="frame" x="0.0" y="771.66666666666663" width="428" height="154.33333333333337"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="fU1-W1-Eu8">
                                         <rect key="frame" x="0.0" y="0.0" width="206.5" height="148.5"/>
@@ -180,9 +176,8 @@
                                 </subviews>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                             </view>
-                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="RNa-5b-dqz" userLabel="result_row">
-                                <rect key="frame" x="0.0" y="0.0" width="414" height="146"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="RNa-5b-dqz" userLabel="result_row">
+                                <rect key="frame" x="0.0" y="0.0" width="428" height="154.33333333333334"/>
                                 <subviews>
                                     <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="this sucks" textAlignment="right" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="gC2-i9-XzD">
                                         <rect key="frame" x="0.0" y="0.0" width="414" height="146"/>
@@ -195,9 +190,8 @@
                                 </subviews>
                                 <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                             </view>
-                            <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="j3U-57-Vvp" userLabel="%_row">
-                                <rect key="frame" x="-1" y="147" width="416.5" height="148.5"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="j3U-57-Vvp" userLabel="%_row">
+                                <rect key="frame" x="0.0" y="154.33333333333331" width="428" height="154.33333333333331"/>
                                 <subviews>
                                     <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ghE-zu-oK9">
                                         <rect key="frame" x="0.0" y="0.0" width="103" height="148.5"/>
@@ -241,6 +235,37 @@
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="Ocv-dr-WMp"/>
                         <color key="backgroundColor" white="0.0" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="j3U-57-Vvp" firstAttribute="width" secondItem="RNa-5b-dqz" secondAttribute="width" id="8oy-Iv-C8P"/>
+                            <constraint firstItem="4NE-rN-kBX" firstAttribute="leading" secondItem="cux-nb-tfI" secondAttribute="leading" id="D5Y-RD-a4l"/>
+                            <constraint firstItem="4NE-rN-kBX" firstAttribute="width" secondItem="RNa-5b-dqz" secondAttribute="width" id="DO5-Q0-bG8"/>
+                            <constraint firstItem="Ewk-zs-Lm8" firstAttribute="width" secondItem="RNa-5b-dqz" secondAttribute="width" id="EKq-rp-eeJ"/>
+                            <constraint firstItem="Ocv-dr-WMp" firstAttribute="trailing" secondItem="RNa-5b-dqz" secondAttribute="trailing" id="GcL-pN-eTt"/>
+                            <constraint firstItem="Ocv-dr-WMp" firstAttribute="trailing" secondItem="4NE-rN-kBX" secondAttribute="trailing" id="Ggh-i5-PAR"/>
+                            <constraint firstItem="Ewk-zs-Lm8" firstAttribute="top" secondItem="4NE-rN-kBX" secondAttribute="bottom" id="KtW-bi-tPv"/>
+                            <constraint firstItem="Ocv-dr-WMp" firstAttribute="trailing" secondItem="Tzr-qy-XTV" secondAttribute="trailing" id="O8q-Hh-nv6"/>
+                            <constraint firstItem="kok-oA-z2m" firstAttribute="width" secondItem="RNa-5b-dqz" secondAttribute="width" id="OxK-oD-h7X"/>
+                            <constraint firstItem="RNa-5b-dqz" firstAttribute="top" secondItem="cux-nb-tfI" secondAttribute="top" id="Tvo-AA-6aT"/>
+                            <constraint firstItem="Ewk-zs-Lm8" firstAttribute="leading" secondItem="cux-nb-tfI" secondAttribute="leading" id="VEw-Sl-bhe"/>
+                            <constraint firstAttribute="bottom" secondItem="Tzr-qy-XTV" secondAttribute="bottom" id="XnR-EJ-G5i"/>
+                            <constraint firstItem="kok-oA-z2m" firstAttribute="top" secondItem="j3U-57-Vvp" secondAttribute="bottom" id="ZoI-L0-tpX"/>
+                            <constraint firstItem="j3U-57-Vvp" firstAttribute="height" secondItem="RNa-5b-dqz" secondAttribute="height" id="ahm-tG-kZp"/>
+                            <constraint firstItem="j3U-57-Vvp" firstAttribute="top" secondItem="RNa-5b-dqz" secondAttribute="bottom" id="bBS-K5-CLF"/>
+                            <constraint firstItem="Tzr-qy-XTV" firstAttribute="height" secondItem="RNa-5b-dqz" secondAttribute="height" id="deh-s6-7Ve"/>
+                            <constraint firstItem="4NE-rN-kBX" firstAttribute="top" secondItem="kok-oA-z2m" secondAttribute="bottom" id="dhV-Xr-zgv"/>
+                            <constraint firstItem="kok-oA-z2m" firstAttribute="height" secondItem="RNa-5b-dqz" secondAttribute="height" id="elS-Rh-DZZ"/>
+                            <constraint firstItem="Ewk-zs-Lm8" firstAttribute="height" secondItem="RNa-5b-dqz" secondAttribute="height" id="fY1-59-MDr"/>
+                            <constraint firstItem="Ocv-dr-WMp" firstAttribute="trailing" secondItem="kok-oA-z2m" secondAttribute="trailing" id="g4T-6R-UBx"/>
+                            <constraint firstItem="j3U-57-Vvp" firstAttribute="leading" secondItem="cux-nb-tfI" secondAttribute="leading" id="gkJ-eY-nqD"/>
+                            <constraint firstItem="Ocv-dr-WMp" firstAttribute="trailing" secondItem="j3U-57-Vvp" secondAttribute="trailing" id="hNY-8W-fCQ"/>
+                            <constraint firstItem="Ocv-dr-WMp" firstAttribute="trailing" secondItem="Ewk-zs-Lm8" secondAttribute="trailing" id="kBZ-DK-dIi"/>
+                            <constraint firstItem="RNa-5b-dqz" firstAttribute="leading" secondItem="Ocv-dr-WMp" secondAttribute="leading" id="m7N-ke-pL1"/>
+                            <constraint firstItem="Tzr-qy-XTV" firstAttribute="width" secondItem="RNa-5b-dqz" secondAttribute="width" id="pbv-ay-ET8"/>
+                            <constraint firstItem="Tzr-qy-XTV" firstAttribute="top" secondItem="Ewk-zs-Lm8" secondAttribute="bottom" id="qFx-mz-8lg"/>
+                            <constraint firstItem="4NE-rN-kBX" firstAttribute="height" secondItem="RNa-5b-dqz" secondAttribute="height" id="rIh-Eb-gV0"/>
+                            <constraint firstItem="Tzr-qy-XTV" firstAttribute="leading" secondItem="Ocv-dr-WMp" secondAttribute="leading" id="xtV-f6-fv2"/>
+                            <constraint firstItem="kok-oA-z2m" firstAttribute="leading" secondItem="cux-nb-tfI" secondAttribute="leading" id="yhc-eu-noL"/>
+                        </constraints>
                     </view>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="b3E-z2-QY8" sceneMemberID="firstResponder"/>
